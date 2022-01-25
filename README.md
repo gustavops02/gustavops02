@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working with Back-end
-- 🌱 I’m currently learning NodeJS and Ruby
+- 🌱 I’m currently learning NodeJS Language
 - 😄 Pronouns: he/his
 
 ##
