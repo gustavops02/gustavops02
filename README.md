@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working with Back-end
 - 🌱 I’m currently learning Java Language
-- 😄 Pronouns: he/his
 
 ##
 
